@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 [![Aekras1a's github stats](https://github-readme-stats.vercel.app/api?username=Aekras1a&show_icons=true&theme=merko)](https://twitter.com/aekrs1)
 [![Aekras1a's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aekras1a&&hide=cmake,HTML,perl,PostScript&langs_count=9&line_height=35&theme=dark&layout=compact)](https://keybase.io/aekras1a)
+
+![](https://i.imgur.com/2By50xt.png)
