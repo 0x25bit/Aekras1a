@@ -1,4 +1,4 @@
-### Hi there 👋
+### xoxo 👋 i don't deserve one of these
 
 <!--
 **Aekras1a/Aekras1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### &#x1f4c8; pointless stats
+
+[![Aekras1a's github stats](https://github-readme-stats.vercel.app/api?username=Aekras1a&show_icons=true&theme=merko)](https://twitter.com/aekrs1)
+[![Aekras1a's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aekras1a&&hide=cmake,HTML,perl,PostScript&langs_count=9&line_height=35&theme=dark&layout=compact)](https://keybase.io/aekras1a)
